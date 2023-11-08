@@ -2,7 +2,7 @@
 .\objects\stm32f10x_can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
 .\objects\stm32f10x_can.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\stm32f10x_can.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\stm32f10x_can.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\stm32f10x_can.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\stm32f10x_can.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\stm32f10x_can.o: ..\User\led\stm32f10x_conf.h
 .\objects\stm32f10x_can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

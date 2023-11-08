@@ -2,7 +2,7 @@
 .\objects\oled_i2c.o: ..\User\oled\OLED_I2C.h
 .\objects\oled_i2c.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\oled_i2c.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\oled_i2c.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\oled_i2c.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\oled_i2c.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\oled_i2c.o: ..\User\led\stm32f10x_conf.h
 .\objects\oled_i2c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

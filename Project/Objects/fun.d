@@ -1,7 +1,7 @@
 .\objects\fun.o: ..\User\fun\fun.c
 .\objects\fun.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\fun.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\fun.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\fun.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\fun.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\fun.o: ..\User\led\stm32f10x_conf.h
 .\objects\fun.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -33,10 +33,10 @@
 .\objects\fun.o: ..\User\dht11\bsp_dht11.h
 .\objects\fun.o: ..\User\systick\bsp_SysTick.h
 .\objects\fun.o: ..\User\usart\bsp_usart.h
-.\objects\fun.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\objects\fun.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\objects\fun.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fun.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\fun.o: ..\User\tim\bsp_tim.h
-.\objects\fun.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\objects\fun.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\fun.o: ..\User\exti\bsp_exti.h
 .\objects\fun.o: ..\User\bh1750\bsp_bh1750.h
 .\objects\fun.o: ..\User\motor\bsp_motor.h

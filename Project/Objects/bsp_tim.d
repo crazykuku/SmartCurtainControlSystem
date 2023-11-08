@@ -2,7 +2,7 @@
 .\objects\bsp_tim.o: ..\User\tim\bsp_tim.h
 .\objects\bsp_tim.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\bsp_tim.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\bsp_tim.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\bsp_tim.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bsp_tim.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\bsp_tim.o: ..\User\led\stm32f10x_conf.h
 .\objects\bsp_tim.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

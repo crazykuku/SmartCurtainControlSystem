@@ -2,7 +2,7 @@
 .\objects\beeper.o: ..\User\beeper\beeper.h
 .\objects\beeper.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\beeper.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\beeper.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\beeper.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\beeper.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\beeper.o: ..\User\led\stm32f10x_conf.h
 .\objects\beeper.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

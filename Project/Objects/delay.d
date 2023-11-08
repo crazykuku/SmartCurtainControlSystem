@@ -1,7 +1,7 @@
 .\objects\delay.o: ..\User\oled\delay.c
 .\objects\delay.o: ..\Libraries\CMSIS\stm32f10x.h
 .\objects\delay.o: ..\Libraries\CMSIS\core_cm3.h
-.\objects\delay.o: E:\Keil5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\delay.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\delay.o: ..\Libraries\CMSIS\system_stm32f10x.h
 .\objects\delay.o: ..\User\led\stm32f10x_conf.h
 .\objects\delay.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
