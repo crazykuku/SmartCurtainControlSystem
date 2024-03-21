@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/user.png</file>
+        <file>image/search.png</file>
+        <file>image/cover.jpg</file>
+    </qresource>
+</RCC>
